@@ -33,10 +33,11 @@ github_username:  bunsonh
 
 # Just the Docs theme
 theme: just-the-docs
-  search_enabled: true
-  search:
-    previews: 3
-  nav_enabled: true
+
+search_enabled: true
+search:
+  previews: 3
+nav_enabled: true
 
 plugins:
   - jekyll-feed
