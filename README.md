@@ -18,3 +18,5 @@ Methods of approach:
   - SQL for Testers
 * [Brad Mayhew's "Awesome Sites to Test On" repository](https://github.com/BMayhew/awesome-sites-to-test-on?tab=readme-ov-file)
   - Here I will sample from the list of simulated test sites
+
+* and maybe another one
