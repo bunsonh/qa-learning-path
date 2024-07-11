@@ -37,7 +37,12 @@ theme: just-the-docs
 search_enabled: true
 search:
   previews: 3
+
 nav_enabled: true
+
+aux_links:
+  "Visit my Github":
+    - "//github.com/bunsonh"
 
 plugins:
   - jekyll-feed
