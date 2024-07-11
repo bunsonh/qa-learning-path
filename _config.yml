@@ -41,7 +41,8 @@ search:
 nav_enabled: true
 
 aux_links:
-  "Visit my Github":
+  "Github:  
+  github.com/bunsonh":
     - "//github.com/bunsonh"
 
 plugins:
