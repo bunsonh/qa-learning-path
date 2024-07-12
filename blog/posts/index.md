@@ -7,9 +7,8 @@ has_children: true
 
 ### Content
 
-{% assign progress = page.progress %}
-{% assign bar_length = 20 %}
-{% assign completed_length = (progress | times: bar_length) | divided_by: 100 %}
-{% assign remaining_length = bar_length | minus: completed_length %}
+# Liquid Test
 
-[{{ '▓' | times: completed_length }}{{ '░' | times: remaining_length }}] {{ progress }}%
+{% assign message = "Hello, Liquid!" %}
+
+{{ message }}
