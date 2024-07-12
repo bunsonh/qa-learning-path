@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Hello World
+layout: default
+title: Category 1 - Hello World 1
+nav_order: 2
 ---
 
 This is it! I might have gotten this straightened out!
