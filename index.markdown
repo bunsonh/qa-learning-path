@@ -38,7 +38,3 @@ I am passionate about technology, learning, and sharing my knowledge. This portf
 Thank you for visiting my portfolio. I hope you find my projects and insights valuable and inspiring!
 
 ---
-
-<!-- {% include footer.html %}
--->
----
