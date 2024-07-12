@@ -24,12 +24,12 @@ I am testing various websites to broaden my understanding of web development and
 - [Site 2](/2024/07/12/site-2)
 - More sites and tests coming soon!
 
-## Recent Blog Posts
+<!-- ## Recent Blog Posts
 
 {% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts limit: 5 %}
 - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+{% endfor %} -->
 
 ## About Me
 
@@ -39,5 +39,5 @@ Thank you for visiting my portfolio. I hope you find my projects and insights va
 
 ---
 
-{% include footer.html %}
+# {% include footer.html %}
 ---
