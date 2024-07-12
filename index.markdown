@@ -39,5 +39,6 @@ Thank you for visiting my portfolio. I hope you find my projects and insights va
 
 ---
 
-# {% include footer.html %}
+<!-- {% include footer.html %}
+-->
 ---
