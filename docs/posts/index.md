@@ -30,8 +30,3 @@ has_children: true
         <div style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; font-weight: bold; color: #000000;">{{ progressPercentage }}%</div>
     </div>
 </div>
-
-<div class="progress-container">
-    <div class="progress-bar" style="width: {{ progressPercentage }}%;"></div>
-    <div class="progress-percentage">{{ progressPercentage }}%</div>
-</div>
