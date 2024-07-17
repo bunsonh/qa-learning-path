@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-favicon_ico: "/assets/images/android-chrome-512x512.png"
+favicon_ico: "/assets/images/android-chrome-192x192.png"
 
 title: QA Learning Path
 email: bunsonh@gmail.com
