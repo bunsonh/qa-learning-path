@@ -1,6 +1,6 @@
 ---
 layout: default
-title: In Defence of ChatGPT
+title: Usage of ChatGPT
 nav_order: 97
 ---
 ### Why I've used ChatGPT  
@@ -15,8 +15,10 @@ For starters, here are a few places where I've used these tools:
 
 Throughout the process, I've debated what using ChatGPT has represented with this project. I've come to see it as a blend of these factors.  
 
-1. A customized, purpose made documentation. By querying the specific problem I'm attempting to solve, I am provided with a document that is akin to documentation catered specifically to the use case.
+1. <span style="text-decoration: underline">Customized, purpose-made documentation</span>. By querying the specific problem I'm attempting to solve, I am provided with a document that is akin to documentation catered specifically to the use case. As there is also a log, I can quickly retrieve previous information.
 
-2. As a mentor. Along with specific info in the above documentation example, I am also offered detailed explanations of the issue, with the ability to cross-reference with context how it may relate to the larger solution. This can be queried for further explanation to grow my understanding.
+2. <span style="text-decoration: underline">As a mentor</span>. Along with specific info in the above documentation example, I am also offered detailed explanations of the issue, with the ability to cross-reference with context how it may relate to the larger solution. This can be queried for further explanation to grow my understanding.
 
-3. A "crutch." If I need a quick solution where I am unconcerned with the context, I can query for a short answer, or skip over the details to efficiently solve the problem. There is a risk here in not building a deeper understanding, but when balanced against the previous functions, I believe this to be an effective use of the tool.
+3. <span style="text-decoration: underline">A "crutch</span>." If I need a quick solution where I am unconcerned with the context, I can query for a short answer, or skip over the details to efficiently solve the problem. There is a risk here in not building a deeper understanding, but when balanced against the previous functions, I believe this to be an effective use of the tool.
+
+In the professional team setting, I would expect this combination to be a way to effectively ramp-up new hires and reduce friction and time constraints between teammates in need of general mentoring. Domain-specific mentorship would still be necessary, but for generalized questions, it would be extremely helpful.
