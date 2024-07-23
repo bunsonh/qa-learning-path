@@ -10,14 +10,14 @@ Hello and welcome to my project portfolio! Here, I document my journey through v
 
 ## Featured Projects
 
-### [LinkedIn Learning Courses](projects/linkedin-learning/)
+### [LinkedIn Learning Courses](docs/projects/linkedin-learning/)
 I am currently enrolled in a series of LinkedIn Learning courses to enhance my technical and professional skills. Follow my progress through each course:
 
 - [Course 1: Lesson 1](/2024/07/11/course-1-lesson-1)
 - [Course 1: Lesson 2](/2024/07/12/course-1-lesson-2)
 - More courses and lessons coming soon!
 
-### [Awesome Sites to Test On](projects/awesome-sites/)
+### [Awesome Sites to Test On](docs/projects/awesome-sites/)
 I am testing various websites to broaden my understanding of web development and QA practices. Check out my findings and reports:
 
 - [Site 1](/2024/07/11/site-1)
