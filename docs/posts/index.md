@@ -74,5 +74,9 @@ has_children: true
 # css test
 
 <div class="test-box">
-    <p>This is a test to see if CSS is being applied correctly.</p>
+  This is a test box with custom styling.
+</div>
+
+<div style="background-color: #FFDDC1; border: 2px solid #FF5733; padding: 20px; margin: 20px 0; text-align: center;">
+  This is a test box with inline styling.
 </div>

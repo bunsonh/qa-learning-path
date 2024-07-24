@@ -39,6 +39,7 @@ sass:
 
 # Just the Docs theme
 theme: just-the-docs
+color_scheme: custom
 
 search_enabled: true
 search:
