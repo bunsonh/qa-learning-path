@@ -48,7 +48,7 @@ has_children: true
 <div class="highlight-box">
     <p>Your text goes here. Describe the progress or any other details you want to highlight.</p>
     {% assign hours_left = 13 %}
-    {% assign minutes_left = 20 %}
+    {% assign minutes_left = 10 %}
     {% assign hours_total = 16 %}
     {% assign minutes_total = 30 %}
 
