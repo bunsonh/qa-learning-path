@@ -13,4 +13,4 @@
 
 **Notes**: 
 
-![social-media-share.md](image.png)
+![social-media-share.png](bug-hunt-1/bugs/social-media-share.png)
