@@ -1,15 +1,15 @@
 ### Bug Report #001: Blog post link returns 404
 
-**Title**: Login button not working in iOS  
-**Summary**: Tapping the login button does nothing on iPhone.  
+**Title**: Blog post link returns 404
+**Summary**: Clicking link from article list to open blog post returns 404
 **Severity**: Major  
 
 **Steps to Reproduce**:  
-1. Go to login page  
-2. Enter valid credentials  
-3. Click "Login"  
+1. Go to https://academybugs.com/articles/
+2. Select an article
+3. Click article image or title link
 
-**Expected**: Redirect to dashboard  
-**Actual**: Button does nothing  
+**Expected**: Article opens
+**Actual**: Returns 404 error
 
-**Notes**: JS console shows `Uncaught TypeError`
+**Notes**: Clicking article date does open the article link
