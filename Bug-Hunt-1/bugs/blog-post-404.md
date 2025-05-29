@@ -9,7 +9,9 @@
 2. Select an article
 3. Click article image or title link
 
-**Expected**: Article opens
+**Expected**: Article opens 
 **Actual**: Returns 404 error
 
 **Notes**: Clicking article date does open the article link
+
+![404 error](blog-post-404.png)
