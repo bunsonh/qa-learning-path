@@ -7,3 +7,6 @@
 ## 🐞 Bugs Found:
 1. [Blog Post 404](https://github.com/bunsonh/qa-learning-path/blob/main/Bug-Hunt-1/bugs/blog-post-404.md)
 2. [Social Media Share](https://github.com/bunsonh/qa-learning-path/blob/main/Bug-Hunt-1/bugs/social-media-share.md)
+
+
+![alt text](ShareX_p0dAkM4dbe.gif)
