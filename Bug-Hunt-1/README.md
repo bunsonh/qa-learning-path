@@ -2,7 +2,7 @@
 
 ## 🎯 Test Plan Summary  
 **Setup**  
-   - Use https://www.academybugs.com/ web testing simulator as test bed  
+   - Use https://www.academybugs.com/ web testing simulator as testing platform  
 
 **Testing Steps**  
    - Exploratory testing and "user submitted" tests  
