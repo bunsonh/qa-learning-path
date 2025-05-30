@@ -1,8 +1,20 @@
 # Academy Bugs - Bug Hunt #1
 
-## 🎯 Test Plan Summary
-- **Focus Areas:** General site functionality  
-- **Time Spent:** 30 mins  
+## 🎯 Test Plan Summary  
+**Setup**  
+   - Use https://www.academybugs.com/ web testing simulator as test bed  
+
+**Testing Steps**  
+   - Exploratory testing and "user submitted" tests  
+   - Report defects and record as separate 000-defect-name.md files with associated screenshots  
+
+**Expected Results**  
+   - Bugs have been identified  
+   - Cannot "fix" defects as tester does not have access to website codebase  
+
+**Pass/Fail Criteria**  
+   - Defects have been reported  
+   - All 25 defects have been "discovered" on https://academybugs.com/find-bugs/  
 
 ## 🐞 Bugs Found:
 1. [Blog Post 404](bugs/001-blog-post-404.md)
