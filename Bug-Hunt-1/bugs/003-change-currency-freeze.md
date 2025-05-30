@@ -1,7 +1,8 @@
 ### Bug Report #003: Page freezes when user changes currency
 
-**Title**: Page freezes when user changes currency
-**Summary**: Using 'Select a Currency' dropdown selector causes a crash
+**Title**: Page freezes when user changes currency  
+**Summary**: Using 'Select a Currency' dropdown selector causes a crash  
+
 **Severity**: Major  
 
 **Steps to Reproduce**:  

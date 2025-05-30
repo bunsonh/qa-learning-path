@@ -1,7 +1,8 @@
 ### Bug Report #00x: 
 
-**Title**: 
-**Summary**: 
+**Title**:  
+**Summary**:   
+
 **Severity**: 
 
 **Precondition**: 
@@ -11,8 +12,8 @@
 2. 
 3. 
 
-**Expected**: 
-**Actual**: 
+**Expected**:  
+**Actual**:  
 
-**Notes**: 
+**Notes**:  
 

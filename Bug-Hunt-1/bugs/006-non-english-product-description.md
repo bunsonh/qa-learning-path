@@ -1,7 +1,7 @@
 ### Bug Report #006: Non-English text in product description
 
-**Title**: Non-English text in product description
-**Summary**: Product description pages display non-English text.
+**Title**: Non-English text in product description  
+**Summary**: Product description pages display non-English text.  
 
 **Severity**: Minor
 

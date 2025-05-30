@@ -1,7 +1,8 @@
 ### Bug Report #001: Blog post link returns 404
 
-**Title**: Blog post link returns 404
-**Summary**: Clicking link from article list to open blog post returns 404
+**Title**: Blog post link returns 404  
+**Summary**: Clicking link from article list to open blog post returns 404  
+
 **Severity**: Major  
 
 **Steps to Reproduce**:  

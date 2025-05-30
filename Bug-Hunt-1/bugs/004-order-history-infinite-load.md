@@ -1,8 +1,9 @@
 ### Bug Report #004: Order History Infinite Load
 
-**Title**: Order History Infinite Load
-**Summary**: Order History will not load and spinner moves infinitely
-**Severity**: Major
+**Title**: Order History Infinite Load  
+**Summary**: Order History will not load and spinner moves infinitely  
+
+**Severity**: Major  
 
 **Precondition**: User is signed in to an account
 

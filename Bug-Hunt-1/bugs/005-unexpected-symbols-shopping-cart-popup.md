@@ -1,8 +1,9 @@
 ### Bug Report #005: Shopping Cart popup shows unexpected symbols
 
-**Title**: Shopping Cart popup shows unexpected symbols
-**Summary**: When the Shopping Cart popup in right panel is displayed, incorrect text is displayed
-**Severity**: Minor
+**Title**: Shopping Cart popup shows unexpected symbols  
+**Summary**: When the Shopping Cart popup in right panel is displayed, incorrect text is displayed  
+
+**Severity**: Minor  
 
 **Precondition**:
 

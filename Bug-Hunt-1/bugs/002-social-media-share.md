@@ -2,6 +2,7 @@
 
 **Title**: Share post to social media does not work  
 **Summary**: Clicking icons to share to social media has no response  
+
 **Severity**: Major  
 
 **Steps to Reproduce**:
