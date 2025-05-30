@@ -14,4 +14,4 @@
 
 **Notes**: Clicking article date does open the article link
 
-![404 error](blog-post-404.png)
+![404 error](<001-blog-post-404.png>)

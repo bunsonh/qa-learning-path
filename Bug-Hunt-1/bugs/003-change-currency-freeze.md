@@ -14,4 +14,4 @@
 
 **Notes**: 
 
-![currency crash](change-currency-freeze.gif)
+![currency crash](003-change-currency-freeze.gif)

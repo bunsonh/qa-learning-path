@@ -13,4 +13,4 @@
 
 **Notes**: 
 
-![social media share](social-media-share.png)
+![social media share](002-social-media-share.png)
