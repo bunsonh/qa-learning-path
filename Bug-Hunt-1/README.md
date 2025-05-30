@@ -16,7 +16,9 @@
    - Defects have been reported  
    - All 25 defects have been "discovered" on https://academybugs.com/find-bugs/  
 
-## 🐞 Bugs Found:
+## 🐞 Bugs Found:  
+_(note: all 25/25 bugs were found, only the following sample got a bug report)_  
+
 1. [Blog Post 404](bugs/001-blog-post-404.md)
 2. [Social Media Share](bugs/002-social-media-share.md)
 3. [Currency Selector Crash](bugs/003-change-currency-freeze.md)
