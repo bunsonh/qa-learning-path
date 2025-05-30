@@ -12,7 +12,7 @@
 3. Select one of the respective colors
 4. Observe color text
 
-**Expected**: "Orange" and "Yellow" are spelled correctly
+**Expected**: "Orange" and "Yellow" are spelled correctly  
 **Actual**: Colors are spelled "Orang" and "Yelow"
 
 **Notes**: 

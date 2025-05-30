@@ -12,7 +12,7 @@
 2. Open a product page
 3. Observe short description and main description
 
-**Expected**: Displayed description text is shown in English
+**Expected**: Displayed description text is shown in English  
 **Actual**: Non-English text is displayed in short description and main description
 
 **Notes**: 

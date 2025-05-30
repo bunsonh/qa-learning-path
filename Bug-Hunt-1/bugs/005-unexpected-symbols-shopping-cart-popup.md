@@ -14,8 +14,8 @@
 4. Scroll down until 'SHOPPING CART' is visible in right column
 5. Hover over 'Shopping Cart (#)' link
 
-**Expected**: Popup displays cart preview as "[Product Name] x $xx.xx"
-**Actual**: Popup displays cart preview as "[Product Name] x _xz1@#_ $xx.xx]"
+**Expected**: Popup displays cart preview as "[Product Name] x $xx.xx"  
+**Actual**: Popup displays cart preview as "[Product Name] x _xz1@#_ $xx.xx"
 
 **Notes**: 
 

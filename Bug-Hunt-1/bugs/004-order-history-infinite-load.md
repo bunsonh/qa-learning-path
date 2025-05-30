@@ -11,7 +11,7 @@
 2. Open a product page
 3. Scroll to bottom right 'Your Account' and select 'Order History'
 
-**Expected**: Order History pane displays previous orders
+**Expected**: Order History pane displays previous orders  
 **Actual**: Spinner moves infinitely, Order History does not load
 
 **Notes**: 
