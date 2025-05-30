@@ -3,7 +3,7 @@
 **Title**: "Orange" and "Yellow" misspelled in color selection options  
 **Summary**: Color selector for items with "Orange" or "Yellow" options displays "Orang" and "Yelow"  
 
-**Severity**: 
+**Severity**: Minor
 
 **Precondition**: Item selected has "Orange" or "Yellow" as color option
 
